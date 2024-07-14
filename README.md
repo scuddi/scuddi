@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Konstantin
 - 🧑‍🎓 I graduated in economics with the emphasis on business informatics; currently doing my masters in "Innovations Management"
 - 👀 My general interests in gaming, sports and technology
-- 
+  
 
 👨‍💻 My tech portfolio
 
