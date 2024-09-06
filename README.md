@@ -12,6 +12,8 @@
     - Decent Python Basics
     
     - JavaSript Basics
+
+    - Decent HTML and CSS Basics (Currently improving Flexbox Skillset)
     
     - Git, Linux
       
