@@ -17,7 +17,7 @@ I’m currently going through : **["The Odin Project"](https://www.theodinprojec
 
 ## Check out my public repos to see some of my projects :file_folder:
 
-[My public repos](https://github.com/scuddi?tab=repositories)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/scuddi?tab=repositories)
 
 ### If you are interested in a more precise CV check out my LinkedIn:
 
