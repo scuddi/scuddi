@@ -18,6 +18,11 @@ I’m currently going through : **["The Odin Project"](https://www.theodinprojec
 ## Check out my public repos to see some of my projects :file_folder:
 
 [My public repos](https://github.com/scuddi?tab=repositories)
+
+### If you are interested in a more precise CV check out my LinkedIn:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-strupp-1bb2a61b9/)
+
 <!---
 scuddi/scuddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
