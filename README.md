@@ -1,6 +1,6 @@
 # Hi, I’m Konstantin 👋
 
-🧑‍🎓 I graduated in economics with the emphasis on business informatics; currently doing my masters in "Innovations Management"
+🧑‍🎓 I graduated in economics with focus on business informatics; currently doing my masters in "Innovations Management"
 
 I’m currently going through : **["The Odin Project"](https://www.theodinproject.com/)** as my aim is to become first a Frontend Web Developer with the perspective to be a Fullstack Web Developer
 
