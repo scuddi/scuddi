@@ -4,7 +4,7 @@
 
 I’m currently going through : **["The Odin Project"](https://www.theodinproject.com/)** as my aim is to become first a Frontend Web Developer with the perspective to be a Fullstack Web Developer
 
-👀 My general interests are in gaming, sports and technology
+My general interests/hobbies are in gaming, sports (🏋️, ⛹️‍♂️, ⚽) and technology
 
 ## Tech Stack 👨‍💻
 
