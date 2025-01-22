@@ -33,7 +33,15 @@ My general interests/hobbies are in gaming, sports (🏋️, ⛹️‍♂️, �
 
 ### My coding projects with The Odin Project
 
+The projects in the table are within the order you are working on them in "The Odin Projet".
 
+| Project   | Project Description | Odin Project Link | Repository | Live Demo | 
+| -------- | ------- | -------- | ------- | ------- |
+| Recipes  | First Project within "The Odin Project" to use the learned HTML Basics | [Click here](https://www.theodinproject.com/lessons/foundations-recipes) | [Repo](https://github.com/scuddi/odin-recipes) | [Live Demo](https://scuddi.github.io/odin-recipes/) |
+| Landing Page | Applying the learned CSS Basics + Flexbox to build a basic landing page | [Click here](https://www.theodinproject.com/lessons/foundations-landing-page) | [Repo](https://github.com/scuddi/odin-landing-page) | [Live Demo](https://scuddi.github.io/odin-landing-page/) |
+| Rock-Paper-Scissors | Applying the learned JS Basics + Dom Manipulation | [Click here](https://www.theodinproject.com/lessons/foundations-rock-paper-scissors) | [Repo](https://github.com/scuddi/rock-paper-scissor) | [Live Demo](https://scuddi.github.io/rock-paper-scissor/) |
+| Rock-Paper-Scissors | Deeper Dive into JS and Dom Manipulation | [Click here](https://www.theodinproject.com/lessons/foundations-etch-a-sketch) | [Repo](https://github.com/scuddi/etch-a-sketch) | [Live Demo](https://scuddi.github.io/etch-a-sketch/) |
+| Web-Calculator | End project of "Foundations Course" applying everything learned before + deeper dive into JS | [Click here](https://www.theodinproject.com/lessons/foundations-calculator) | [Repo](https://github.com/scuddi/odin-calculator) | [Live Demo](https://scuddi.github.io/odin-calculator/) |
 
 <!---
 scuddi/scuddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
