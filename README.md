@@ -6,6 +6,14 @@ I’m currently going through : **["The Odin Project"](https://www.theodinprojec
 
 My general interests/hobbies are in gaming, sports (🏋️, ⛹️‍♂️, ⚽) and technology
 
+## Current status of the Odin Project  [![The Odin Project](https://img.shields.io/badge/The%20Odin%20Project-A9792B?logo=theodinproject&logoColor=fff)](#)
+
+- I just finished the "Foundations Course" ([Visit Course](https://www.theodinproject.com/paths/foundations/courses/foundations))
+
+- Started the "Full Stack JavaScript" Course ([Visit Course](https://www.theodinproject.com/paths/full-stack-javascript))
+
+[See my projects created while working through "The Odin Project"](#my-coding-projects-with-the-odin-project)
+
 ## Tech Stack 👨‍💻
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -22,6 +30,10 @@ My general interests/hobbies are in gaming, sports (🏋️, ⛹️‍♂️, �
 ### If you are interested in a more precise CV check out my LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/konstantin-strupp-1bb2a61b9/)
+
+### My coding projects with The Odin Project
+
+
 
 <!---
 scuddi/scuddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
