@@ -43,6 +43,7 @@ The projects in the table are within the order you are working on them in "The O
 | Rock-Paper-Scissors | Deeper Dive into JS and Dom Manipulation | [Click here](https://www.theodinproject.com/lessons/foundations-etch-a-sketch) | [Repo](https://github.com/scuddi/etch-a-sketch) | [Live Demo](https://scuddi.github.io/etch-a-sketch/) |
 | Web-Calculator | End project of "Foundations Course" applying everything learned before + deeper dive into JS | [Click here](https://www.theodinproject.com/lessons/foundations-calculator) | [Repo](https://github.com/scuddi/odin-calculator) | [Live Demo](https://scuddi.github.io/odin-calculator/) |
 | Input Form | Creating and styling modern input forms | [Click here](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-sign-up-form) | [Repo](https://github.com/scuddi/odin-form) | [Live Demo](https://scuddi.github.io/odin-form/) |
+| Admin Dashboard | Creating a Dashboard with CSS-Grid | [Click here](https://www.theodinproject.com/lessons/node-path-intermediate-html-and-css-admin-dashboard) | [Repo](https://github.com/scuddi/odin-dashboard) | [Live Demo](https://scuddi.github.io/odin-dashboard/) |
 
 <!---
 scuddi/scuddi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
