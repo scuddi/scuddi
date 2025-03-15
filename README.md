@@ -10,7 +10,7 @@ My general interests/hobbies are in gaming, sports (🏋️, ⛹️‍♂️, �
 
 - I just finished the "Foundations Course" ([Visit Course](https://www.theodinproject.com/paths/foundations/courses/foundations))
 
-- Started the "Full Stack JavaScript" Course ([Visit Course](https://www.theodinproject.com/paths/full-stack-javascript))
+- Working on the "Full Stack JavaScript" Course ([Visit Course](https://www.theodinproject.com/paths/full-stack-javascript))
 
 [See my projects created while working through "The Odin Project"](#my-coding-projects-with-the-odin-project)
 
